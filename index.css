@@ -1,4 +1,8 @@
 
+body
+{
+    height: 100vh;
+}
 .edgtf-position-center-inner
 {
     padding-right: 30px;
